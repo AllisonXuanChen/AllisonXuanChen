@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Allison Chen</h1>
-<h3>A passionate Fullstack developer</h3>
+<h2>Hi 👋, I'm Allison Chen</h1>
+<h4>A passionate junior Fullstack developer, living in Amsterdam, the Netherlands</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Ruby and Python**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **allison.xuan.chen@gmail.com**
 
-- ⚡ Fun fact **I am a cat owner and I love movies!**
+- ⚡ Fun fact **I am a cat owner and I love Sci-fi movies!**
 
 <p align="left">
 </p>

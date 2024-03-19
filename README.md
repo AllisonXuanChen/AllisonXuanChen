@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Allison Chen</h1>
-<h4>A passionate junior Fullstack developer, living in Amsterdam, the Netherlands</h3>
+<h4>A passionate junior Fullstack developer, living in Amsterdam, the Netherlands.</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Ruby and Python**
 

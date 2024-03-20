@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **allison.xuan.chen@gmail.com**
 
-- ⚡ Fun fact: **I am a cat owner and I love Sci-fi movies!**
+- ⚡ Fun fact: **I am a cat owner and I love Sci-fi/Horror movies!**
 
 <p align="left">
 </p>
